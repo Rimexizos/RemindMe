@@ -1,0 +1,10 @@
+PyQt6
+pygame
+gtts
+playsound
+pydub
+googletrans
+pystray
+Pillow
+
+--
